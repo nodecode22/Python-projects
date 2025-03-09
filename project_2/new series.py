@@ -1,7 +1,7 @@
 #PROGRAM TO FIND THE SUM OF SERIES GIVEN
 x=int(input("enter the value of x:"))
 a=int(input("enter the value of a:"))
-n=int(input("enter the value of n:"))
+n=int(input("enter the value of n sauak:"))
 import math
 sum=0
 for i in range(1,n+1):
